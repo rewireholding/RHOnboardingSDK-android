@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RHOnBoarding Sample App</string>
+    <string name="rw_sample_title">Rewire Holding\n On Boarding SDK Demo</string>
+    <string name="rw_applicant_hint">Please introduce your Applicant ID</string>
+    <string name="rw_journey_hint">Journey</string>
+    <string name="rw_user_name_hint">User Name</string>
+    <string name="rw_last_name_hint">Last Name</string>
+    <string name="rw_birth_date_hint">YYYY-MM-dd</string>
+    <string name="rw_launch_sdk_demo_applicant">Launch On Boarding SDK by ApplicantID</string>
+    <string name="rw_launch_sdk_demo_user_data">Launch On Boarding SDK by User Data</string>
+</resources>
